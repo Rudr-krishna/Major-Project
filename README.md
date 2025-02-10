@@ -1,6 +1,6 @@
 # ViStocks
 
-ViStocks is a stock analysis and prediction tool that allows users to view historical stock data and predict future stock prices. The application provides an interactive dashboard for visualizing stock information and predicting closing prices using Support Vector Regression (SVR).
+ViStocks is a stock analysis and prediction tool that allows users to view historical stock data and predict future stock prices. The application provides an interactive dashboard for visualizing stock information and predicting closing prices using the time series model.
 
 ## Features
 
@@ -19,5 +19,5 @@ ViStocks is a stock analysis and prediction tool that allows users to view histo
 
 - **Front-end**: Dash
 - **Back-end**: Python
-- **Prediction Model**: Time Series Analysis 
+- **Prediction Model**: Time Series Models
 - **Data Source**: Yahoo Finance API 
