@@ -19,5 +19,5 @@ ViStocks is a stock analysis and prediction tool that allows users to view histo
 
 - **Front-end**: Dash
 - **Back-end**: Python
-- **Prediction Model**: Support Vector Regression (SVR)
+- **Prediction Model**: Time Series Analysis 
 - **Data Source**: Yahoo Finance API 
